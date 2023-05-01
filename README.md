@@ -1,4 +1,4 @@
 # Training
 DevOps Training repo
 
-Hello I'm testing the repo ia ble to clone or not.
+Hello I'm testing the repo is able to clone or not.
